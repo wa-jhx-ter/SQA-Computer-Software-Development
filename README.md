@@ -1,4 +1,4 @@
-> 中文请[点击这里](ReadmeCN.md)，SQA学生请继续阅读，本篇文章不定时更新
+> 中文请[点击这里](Chinese/ReadmeCN.md)，SQA学生请继续阅读，本篇文章不定时更新
 # SQA-AD Computer-Science
 This repository is help for the student who is admitted in to the SQA-AD with Computer Software Development courses.
 # Quotation

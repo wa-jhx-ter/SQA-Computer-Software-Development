@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81d99e7e0c3d3e4a",
+        "id": "9ae959c0dc0488a7",
         "type": "tabs",
         "children": [
           {
-            "id": "529768f26bf55cdf",
+            "id": "adb58a8931269f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,19 +16,23 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
-            "id": "3b5523a658d73968",
+            "id": "97410efb1b0de69f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "English/Courses.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Courses"
             }
           }
         ]
@@ -50,8 +54,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -74,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -82,7 +93,19 @@
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "75a200f3e0ba6734",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
             }
           }
         ]
@@ -105,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "English/Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Courses 的反向链接列表"
             }
           },
           {
@@ -122,10 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "English/Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Courses 的出链列表"
             }
           },
           {
@@ -135,8 +162,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -145,8 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "English/Courses.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Courses 的大纲"
             }
           }
         ],
@@ -168,14 +204,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "529768f26bf55cdf",
+  "active": "adb58a8931269f96",
   "lastOpenFiles": [
-    "Courses.md",
+    "新建 Microsoft Visio Drawing.vsdx",
+    "English/Tools.md",
+    "Chinese/Courses.md",
+    "Chinese/ReadmeCN.md",
+    "English/Courses.md",
+    "English/References.md",
     "README.md",
-    "Tools.md",
+    "Courses/CMU 15-445.md",
+    "Courses/CMU.md",
+    "Courses",
+    "().md",
+    "Chinese",
+    "English",
     "Courses 1.md",
     "Courses.md.md",
-    "References.md",
     "一个大项目"
   ]
 }

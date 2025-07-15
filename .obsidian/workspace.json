@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/en/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "97410efb1b0de69f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Courses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Courses"
             }
           }
         ]
@@ -100,6 +86,16 @@
           },
           {
             "id": "75a200f3e0ba6734",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "6747239970598a69",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -206,12 +202,21 @@
   },
   "active": "adb58a8931269f96",
   "lastOpenFiles": [
+    "docs/en/Courses/First Year/Mathematics.md",
+    "docs/en/Courses/First Year/English.md",
+    "docs/en/Courses/First Year",
+    "docs/en/Courses/FIrst Year/Mathematics.md",
+    "docs/en/Courses/FIrst Year/English.md",
+    "docs/zh/Courses/index.md",
+    "docs/zh/Courses/First Year/Mathematics.md",
+    "docs/zh/Courses/First Year/English.md",
+    "docs/zh/README.md",
+    "README.md",
     "English/References.md",
     "English/Tools.md",
     "English/Courses.md",
     "Chinese/ReadmeCN.md",
     "Chinese/Courses.md",
-    "README.md",
     "新建 Microsoft Visio Drawing.vsdx",
     "Courses/CMU 15-445.md",
     "Courses/CMU.md",

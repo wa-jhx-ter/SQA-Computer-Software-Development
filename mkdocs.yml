@@ -1,0 +1,58 @@
+site_name: Software Development
+site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  language: en 
+
+  palette:
+    # 主色调设置移动到具体配色方案中
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light green  # 主色调移动到此处
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light green  # 深色模式同样需要定义主色调
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # 自动模式应作为独立配置项
+    - media: "(prefers-color-scheme)"
+      scheme: default
+      primary: light green  # 自动模式的主色调
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to system preference
+  features: 
+    - content.toc
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+        - locale: zh
+          name: 中文
+          nav_translations:
+              Courses: 课程
+              First Year: 第一学年
+              Second Year: 第二学年
+              Third Year: 第三学年
+
+

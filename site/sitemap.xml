@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/zh/Courses/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/zh/README/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/English/Courses/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/English/References/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/English/Tools/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+</urlset>
